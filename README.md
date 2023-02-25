@@ -1,9 +1,3 @@
-
-### Hi, I'm Dominique  
-<div align="center">
-</div>  
-  
-
 ## **<div align="center">Hi, I'm Dominique 👋🏽</div>**  
   
 
