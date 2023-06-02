@@ -1,7 +1,7 @@
 # **<div align="center">Hi, I'm Dominique 👋🏽</div>**  
   
 
-### <div align="center">An aspiring developer with a focus on Front-End Development.</div>  
+### <div align="center">A developer with a focus on Front-End Development.</div>  
   
 
 <br/>  
